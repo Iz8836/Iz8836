@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Iz8836
+- 👀 I’m interested in android 
+- 🌱 I’m currently learning about android 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Iz8836/Iz8836 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--- 
+
